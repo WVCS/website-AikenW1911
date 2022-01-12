@@ -1,3 +1,43 @@
-body {
-background-color: salmon;
+nav{
+  list-style-type: none;
+  background-color: #365;
+  width: 100%;
+  left 0;
+  top 0;
+  text-align: center;
+  overflow: hidden;
+  position: sticky;
+}
+
+li a {
+  display: blue;
+  color: white ;
+  text-decoration: none;
+}
+
+li a{
+  display: block; 
+  color: white;
+  text-decoration: none;
+  padding: 15px 25px;
+}
+
+}
+
+img{
+  width: 50%; 
+  border: 3px solid #fff;
+  height: 50%;
+}
+
+
+
+
+
+
+li a:hover{
+  background-color: blue
+}
+body{
+  background-color: #red;
 }
