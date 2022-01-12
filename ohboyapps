@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="DIRECTlink.pictureFILE">
+       <title> my apps </title>
+</head>
+
+
+<body>
+      <nav>
+      <li><a href="https://wvcs.github.io/website-AikenW1911/"> Home </a></li>
+      <li><a href="index2.html"> My Apps </a></li>
+      <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME"> Westview </a></li>
+        
+        
+        
+      
+    </nav>
+    <center>
+    
+    
+    
+    
+     
+      
+      <br>
+      
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/JBqVq94wjJ4-MkANFqBOigHDWZvYprhL7R3ybf66dSs"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/IV-eaeiPfS4fNeWU-nlhq8hmTt2N4d8xiJvIlpROL48"></iframe>
+    
+    </center>
+  
+    <p> Paragraph pp</p>
+    
+    </center>
+</body>
+</html>
