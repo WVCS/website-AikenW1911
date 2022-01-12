@@ -2,14 +2,14 @@
 <head>
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="DIRECTlink.pictureFILE">
-       <title> my apps </title>
+       <title> My Apps </title>
 </head>
 
 
 <body>
       <nav>
       <li><a href="https://wvcs.github.io/website-AikenW1911/"> Home </a></li>
-      <li><a href="index2.html"> My Apps </a></li>
+      <li><a href="ohboyapps.html"> My Apps </a></li>
       <li><a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME"> Westview </a></li>
         
         
